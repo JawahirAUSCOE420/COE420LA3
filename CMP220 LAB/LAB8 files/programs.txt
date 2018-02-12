@@ -1,0 +1,28 @@
+3
+
+CSE Computer_Science_and_Engineering  5 
+
+@0003453
+
+@0004434
+
+@0006754
+
+@0001234
+
+@0005434
+
+MCE Michanical_Engineering 4 
+
+@0004598
+
+@0004564
+
+@0005555
+@0003202
+
+ELE Electrical_Engineering 2 
+
+@0003241
+
+@0006534

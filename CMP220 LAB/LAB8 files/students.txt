@@ -1,0 +1,52 @@
+10
+
+@0003453 Ahmad Mahmod  2 
+
+cmp220
+
+coe221
+
+@0004434 John Jack 0
+
+@0006754 Hind Rebhi 1
+
+ngn110
+
+@0001234 Orient West 3
+
+coe321
+
+ele340
+
+coe416
+
+@0005434 Remm Obaid 1
+
+coe321
+
+@0004598 Maryam Wadi 2
+
+mce343
+
+mce212
+
+@0004564 Bader Khaldon 1
+
+mce210
+@0003202 Mehmet Ozkul 1
+
+mce459
+
+@0003241 Mahdi Aqel 4
+
+ele340
+
+ele350
+
+ele220
+
+ele360
+
+@0006534 Zahra Oukel 1
+
+ngn110

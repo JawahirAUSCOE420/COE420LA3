@@ -1,0 +1,32 @@
+15 
+
+cmp120 Introduction to computer science 1 
+
+cmp220 Introduction to computer science 2
+
+ngn110 Introduction to engineering
+
+mce212 Introduction to mechanical engineering 2 
+
+mce459 Embeded systems app. in mech. eng. 
+
+mce343 Dynamics Systems 2 
+
+mce210 Computer Programing for mech. engin.
+
+coe416 Network programing 
+
+coe343 Data Structures 
+
+coe221 Digital Systems 
+
+coe321 Advanced Digital Systems
+
+ele120 Introduction to electrical circuits 1 
+
+ele220 Introduction to electrical circuits 2 
+
+ele340 Embeded systems 
+ele350 Control systems 
+
+ele360 PLC systems 
